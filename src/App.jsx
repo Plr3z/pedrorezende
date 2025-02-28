@@ -265,7 +265,7 @@ function App() {
             <i className="fa-solid fa-phone text-white text-2xl !mr-7"></i>
             <div className="flex flex-col">
               <p className="font-primary text-white text-lg  text-center">
-                +55 (34) 99632-2177
+                +55 (34) 99632-2178
               </p>
             </div>
           </div>
@@ -274,11 +274,7 @@ function App() {
             <i className="fa-solid fa-envelope text-white text-2xl !mr-7"></i>
             <div className="flex flex-col">
               <p className="font-primary text-white text-lg  text-center">
-                plrezende02@gmail.com
-              </p>
-
-              <p className="font-primary text-white text-lg  text-center">
-                plrezende00@gmail.com
+                contatopedrorznd@gmail.com
               </p>
             </div>
           </div>
